@@ -92,7 +92,7 @@ Providing significant input to the planning and execution of several research st
 
 •	Sam Finnegan (MSci student 2013 - 2014)
 
-•	Jack (MSci student 2013 - 2014)
+•	Jack Munns (MSci student 2013 - 2014)
 
 •	Alec Vincent (Intern 2014 – 2015)
 
