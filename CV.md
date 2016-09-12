@@ -36,6 +36,9 @@ University of Gloucestershire
 
 Presentations to date encapsulate multiple aspects of my work on the genetic basis of intralocus sexual conflict. Presentations were invited following abstract submission. 
 
+<b>2016</b><br> 
+•	Poster presentation – Evolutionary genomics and systems biology: bringing together theoretical and experimental approaches (CNRS EGSB) 
+
 <b>2015</b><br> 
 •	Oral presentation – European Society of Evolutionary Biology (ESEB) 
 Conference.
