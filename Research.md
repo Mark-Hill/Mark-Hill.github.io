@@ -10,7 +10,7 @@ permalink: /research/
 <hr>
 </div>
 
-<h1>Modelling regulatory interactions and sexual antagonism</h1>
+<h1>The distribution of sexually antagonistic polymorphism across gene regulatory networks</h1>
 More info soon!
 <hr>
 
