@@ -57,7 +57,7 @@ Conference.
 <h1>Specific research skills</h1>
 
 <b>Computational biology / bioinformatics</b><br>
-•	Proficient with several programming languages, including Python, Unix, and R.<br>
+•	Proficient with several programming languages, including Python, Unix, R & a little c++.<br>
 •	Experienced in the analysis of NGS datasets; from raw reads to detailed interpretation.
 
 <b>Molecular biology</b><br>
