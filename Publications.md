@@ -13,4 +13,4 @@ Collet, J., Fuentes, S., Hesketh, J., <b>Hill, M. S.</b>, Innocenti, P., Morrow,
 
 <b>Hill, M. S.</b>, Ruzicka, F., Fuentes, S., Collet. J., Innocenti, P., Morrow, T., Fowler, K., Reuter, M. The genomic basis of intralocus sexual conflict in <i>Drosophila melanogaster</i>.
 
-<b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism in regulatory networks. 
+<b>Hill, M. S.</b>, Reuter, M., Stewart, A. The distribution of sexually antagonistic polymorphism across gene regulatory networks. 
