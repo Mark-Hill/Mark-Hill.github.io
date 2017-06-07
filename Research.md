@@ -10,13 +10,9 @@ permalink: /research/
 <hr>
 </div>
 
-<h1>The distribution of sexually antagonistic polymorphism across gene regulatory networks</h1>
-More info soon!
-<hr>
-
 <div align="justify">
-<h1>Y-chromosome variation and fitness</h1>
-<p>Alongside my work on IASC I am also investigating Y-chromosome variation and how it relates to fitness in <i>D. melanogaster</i>. The Y-chromosome is a degraded, repeat-rich, and gene-poor chromosome; however, despite its seeming insignificance, recent studies have found that it can explain global changes in gene expression and that there is Y-linked epistatic variation for male fitness in <i>D. melanogaster</i>. My work is focused on characterising to what extent the Y-chromosome modulates fitness-related gene expression and what the evolutionary consequences of this are.</p>
-
+<h1>The evolution of polymorphic gene expression in regulatory networks under sexually antagonistic selection</h1>
+<p>The widespread occurrence of sexual antagonism is somewhat at odds with classical population genetic theory which suggests that the conditions for invasion and maintenance of antagonistic alleles are highly restrictive, particularly under weak selection. This disparity suggests that classic models do not adequately capture the properties of antagonistic alleles nor of the fitness landscapes on which they evolve. To address this, I am collaborating with Dr. Alex Stewart and Dr. Max Reuter to develop a detailed biophysical model for the action of sexually antagonistic selection on gene expression. This was motivated by the fact that gene regulation sits at the core of sexual dimorphism and has previously been associated with sexual antagonism. In addition, we have a detailed understanding of transcription factor binding, allowing us to construct realistic fitness landscapes. This framework will allow us to gain a better understanding of the conditions in which antagonistic alleles invade and are maintained by selection as well a generate more specific insights into the expected distribution of these loci across regulatory networks.</p>
+<hr>
 </div>
 
