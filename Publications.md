@@ -16,4 +16,4 @@ Reuter, M., Camus, M. F., <b>Hill, M. S.</b>, Ruzicka, F., Fowler, K. 2017. Evol
 
 <h1>In preparation</h1>
 
-<b>Hill, M. S.</b>, Reuter, M., Stewart, A. The distribution of sexually antagonistic polymorphism across gene regulatory networks. 
+<b>Hill, M. S.</b>, Reuter, M., Stewart, A. The evolution of polymorphic gene expression in regulatory networks under sexually antagonistic selection.
