@@ -40,7 +40,7 @@ Presentations to date encapsulate multiple aspects of my work on the genetic bas
 •	Oral presentation – UCL GEE Postgraduate Symposium
 
 <b>2016</b><br> 
-•	Poster presentation – Evolutionary genomics and systems biology: bringing together theoretical and experimental approaches (CNRS EGSB) 
+•	Poster presentation – Evolutionary genomics and systems biology: bringing together theoretical and experimental approaches (CNRS EGSB). <i>Received UCL Graduate School conference funding award</i>.
 
 <b>2015</b><br> 
 •	Oral presentation – European Society of Evolutionary Biology (ESEB) 
