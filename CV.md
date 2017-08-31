@@ -36,12 +36,10 @@ University of Gloucestershire
 
 Presentations to date encapsulate multiple aspects of my work on the genetic basis of intralocus sexual conflict. Presentations were invited following abstract submission. 
 
-<b>Upcoming</b><br>
+<b>2017</b><br> 
 •	Oral presentation – European Society of Evolutionary Biology (ESEB) 
 Conference. <i>Received UCL Graduate School conference funding award</i>.
 
-
-<b>2017</b><br> 
 •	Oral presentation – UCL GEE Postgraduate Symposium
 
 <b>2016</b><br> 
