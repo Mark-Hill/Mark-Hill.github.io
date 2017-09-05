@@ -2,4 +2,4 @@
 layout: pdf
 ---
 
-<iframe src="https://drive.google.com/open?id=0B0ilPWGFklhhWEw0anBKdDdvbmM"></iframe>
+<iframe src="https://drive.google.com/file/d/0B0ilPWGFklhhWEw0anBKdDdvbmM/view?usp=sharing"></iframe>
