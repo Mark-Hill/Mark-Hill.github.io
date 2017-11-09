@@ -4,13 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-Department of Genetics Evolution and Environment<br>
-Faculty of Life Sciences<br>
-University College London<br>
-Gower Street<br>
-London WC1E 6BT<br>
-United Kingdom<br>
+Department of Ecology and Evolutionary Biology
+1061 Kraus Natural Science building
+University of Michigan 
+Ann Arbor, MI
+USA
 
-email: mark.hill.13(at)ucl.ac.uk
+email: marshill[at]umich.edu
 
 Twitter: @MarksHilly
