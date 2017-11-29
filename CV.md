@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<iframe src="https://drive.google.com/file/d/0B0ilPWGFklhhWEw0anBKdDdvbmM/preview" width="100%" style="height: 100vh;"></iframe>
+<iframe src="https://drive.google.com/open?id=1cJZRzRhzf7iGQFDsCeN-2-Gdvh7d08eG/preview" width="100%" style="height: 100vh;"></iframe>
